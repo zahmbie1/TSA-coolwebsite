@@ -1,5 +1,5 @@
 # TSA-coolwebsite
 very cool website <br>
 trust me bro
-# Issues
+# Major Issues
 website doesnt use html.html
