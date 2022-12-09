@@ -2,4 +2,6 @@
 very cool website <br>
 trust me bro
 # Major Issues
-website doesnt use html.html
+none currently
+<br>
+check issues tab for all issues
