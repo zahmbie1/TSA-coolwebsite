@@ -11,3 +11,7 @@ body {
 .center-text {
     text-align: center;
 }
+
+li{
+    display: inline;
+}
