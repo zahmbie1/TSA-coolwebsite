@@ -5,8 +5,7 @@ h1 {
     font-weight: bold;
 }
 body {
-    /*background: white;*/
-    background: linear-gradient(#e66465, #9198e5);
+    background: white;
 }    
 
 .center-text {
