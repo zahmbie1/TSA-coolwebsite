@@ -17,9 +17,10 @@ li{
     padding: 10px;
 }
 .box{
-    width: 360px;
+    width: auto;
     height: auto;
     padding: 20px;
     border: 8px white;
     background: white;
+    margin: auto;
 }
