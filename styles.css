@@ -1,5 +1,5 @@
 p {
-    color: white;
+    color: black;
 }
 h1 {
     font-weight: bold;
@@ -16,7 +16,7 @@ li{
     display: inline;
     padding: 10px;
 }
-.box::before{
+.box{
     width: auto;
     height: auto;
     padding: 20px;
